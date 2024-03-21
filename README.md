@@ -20,18 +20,9 @@ Created By - OV3RLORD
 
 -------------------------------------------
 
-
-- How To Install?
-
- Simply drag and drop it to your "resource" folder.
-
 - Support
 
    You can always join my discord for any support you may need.
-
-
-
-
 
 
 -------------------------------------------
