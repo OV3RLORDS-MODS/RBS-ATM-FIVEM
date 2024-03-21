@@ -21,6 +21,10 @@ Created By - OVERLORD
 
  Simply drag and drop it to your "resource" folder.
 
+ - Support?
+
+   You can always join my discord for any support you may need.
+
 - Important Notice: Please Read Before Use
 
 This FiveM mod is provided under the following terms:
