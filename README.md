@@ -14,8 +14,9 @@ Item - RBS Bank
 Description - RBS ATM. 
 Created By - OVERLORD 
 
+- How To Install?
 
---------------------------------
+ Simply drag and drop it to your "resource" folder.
 
 - Important Notice: Please Read Before Use
 
