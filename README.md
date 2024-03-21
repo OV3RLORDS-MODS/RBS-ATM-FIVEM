@@ -4,7 +4,9 @@
 # RBS-ATM-FIVEM
 RBS ATM - FOR FIVEM SERVERS 
 
-Thanks for the support. 
+This mod replaces "prop_atm_02" on GTA.
+
+---------------------------------
 
 You can alaways join my discord for news, updates and official support by me and my small team. 
 
