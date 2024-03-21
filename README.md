@@ -15,8 +15,7 @@ https://discord.gg/ZrtN5sfuhV
 ---------------------------------
 
 
-Item - RBS Bank 
-Description - RBS ATM. 
+Item - RBS Bank ATM
 Created By - OVERLORD 
 
 -------------------------------------------
