@@ -1,4 +1,5 @@
-![Alt text](https://i.ibb.co/ABC123/image.jpg)
+![Screenshot](https://i.ibb.co/NF84xQF/Screenshot-2024-03-21-021511.png)
+
 
 # RBS-ATM-FIVEM
 RBS ATM - FOR FIVEM SERVERS 
