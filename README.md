@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://ibb.co/nwHWrZw))
+![Alt text](https://i.ibb.co/ABC123/image.jpg)
 
 # RBS-ATM-FIVEM
 RBS ATM - FOR FIVEM SERVERS 
